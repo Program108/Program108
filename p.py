@@ -1,7 +1,7 @@
 import requests
 import random
 import threading
-#token = ""
+token = "ultraprotoken"
 url ="https://8ef6-2405-201-a408-7192-6d60-6f8f-c5d9-5166.in.ngrok.io/api/addStudent?token="+token
 #url = "https://google.com"
 adm = random.randint(1200,1800)
